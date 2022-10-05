@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vuong Le</h1>
-<h3 align="center">I'm fullstack developer from Vietnam</h3>
+<h3 align="center">I'm Software Engineering from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lequocvuong&label=Profile%20views&color=0e75b6&style=flat" alt="lequocvuong" /> </p>
 
