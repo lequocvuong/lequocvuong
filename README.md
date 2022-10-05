@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lequocvuong&label=Profile%20views&color=0e75b6&style=flat" alt="lequocvuong" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lequocvuong" alt="lequocvuong" /></a> </p>
-
-- 🔭 I’m currently working on **Medlatec General Hospital in Hà Noi, Vietnam**
+- 🔭 I’m currently working on **Medlatec General Hospital in Ha Noi, Vietnam**
 
 - 📫 How to reach me **lequocvuong.cn6@gmail.com**
 
