@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=lequocvuong&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/lequocvuong.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/lequocvuong?tab=followers)
 
-- 🔭 I’m currently working on **VPBank in Ha Noi, Vietnam**
+- 🔭 I have worked at MobiFone, Medlatec, BIDV Bank. I’m currently working on **VPBank in Ha Noi, Vietnam**
 
 - 📫 How to reach me **lequocvuong.cn6@gmail.com**
 
